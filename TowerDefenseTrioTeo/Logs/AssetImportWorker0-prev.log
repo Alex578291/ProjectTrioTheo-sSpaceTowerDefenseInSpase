@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.18362) 64bit Professional' Language: 'ru' Physical Memory: 8155 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/ProjectAA/ProjectTrioTheo-sSpaceTowerDefenseInSpase/TowerDefenseTrioTeo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49852
+Successfully changed project path to: D:/ProjectAA/ProjectTrioTheo-sSpaceTowerDefenseInSpase/TowerDefenseTrioTeo
+D:/ProjectAA/ProjectTrioTheo-sSpaceTowerDefenseInSpase/TowerDefenseTrioTeo
+Using Asset Import Pipeline V2.

@@ -1,0 +1,33 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.18362) 64bit Professional' Language: 'ru' Physical Memory: 8155 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/ProjectAA/ProjectTrioTheo-sSpaceTowerDefenseInSpase/TowerDefenseTrioTeo
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49852
+Successfully changed project path to: D:/ProjectAA/ProjectTrioTheo-sSpaceTowerDefenseInSpase/TowerDefenseTrioTeo
+D:/ProjectAA/ProjectTrioTheo-sSpaceTowerDefenseInSpase/TowerDefenseTrioTeo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1328.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/ProjectAA/ProjectTrioTheo-sSpaceTowerDefenseInSpase/TowerDefenseTrioTeo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon(TM) RX 460 Graphics (ID=0x67ef)
+    Vendor:   
+    VRAM:     4041 MB
+    Driver:   26.20.13003.1007
